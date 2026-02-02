@@ -1,3 +1,4 @@
+<p align="center">
  <pre>
   _______________________________________
 / As long as the dice is still rolling    \
@@ -9,6 +10,7 @@
                 ||----w |
                 ||     ||
 </pre>
+</p>
 <p align="center">
   CS Student @ SFU | Software Developer
 </p>
