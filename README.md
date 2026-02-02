@@ -13,6 +13,8 @@
   CS Student @ SFU | Software Developer
 </p>
 
+---
+
 ### Featured Projects
 
 #### - [FoodieFind](https://github.com/Amik05)
@@ -49,5 +51,6 @@ A high-performance chat application built in **C** using **POSIX Threads** and T
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
+---
 
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/amir-matianiu) • [GitHub](https://github.com/Amik05) • [Email](mailto:ama349@sfu.ca)
