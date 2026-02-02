@@ -1,4 +1,3 @@
-<p align="center">
  <pre>
   _______________________________________
 / As long as the dice is still rolling    \
@@ -17,6 +16,8 @@
  ██║  ██║██║ ╚═╝ ██║██║██║  ██║
  ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═╝
 </pre>
+<p align="center">
+
   CS Student @ SFU | Software Developer
 </p>
 
