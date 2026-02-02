@@ -1,23 +1,4 @@
- <pre>
-  _______________________________________
-/ As long as the dice is still rolling    \
-\ you will get your six                   /
-  ---------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
-
-  █████╗ ███╗   ███╗██╗██████╗ 
- ██╔══██╗████╗ ████║██║██╔══██╗
- ███████║██╔████╔██║██║██████╔╝
- ██╔══██║██║╚██╔╝██║██║██╔══██╗
- ██║  ██║██║ ╚═╝ ██║██║██║  ██║
- ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═╝
-</pre>
 <p align="center">
-
   CS Student @ SFU | Software Developer
 </p>
 
@@ -37,13 +18,13 @@
 
 ### Featured Projects
 
-#### 🔹 [FoodieFind](https://github.com/Amik05)
+#### - [FoodieFind](https://github.com/Amik05)
 A full-stack React application integrating the **Gemini API** and Google Maps API to provide AI-driven restaurant insights. Features automated testing pipelines and CI/CD integration.
 
-#### 🔹 [Autonomous Racing AI Agent](https://github.com/Amik05)
+#### - [Autonomous Racing AI Agent](https://github.com/Amik05)
 An AI agent trained using **PyTorch** to navigate complex racing environments. Implemented custom simulations with LIDAR sensor inputs and optimized training via headless rendering.
 
-#### 🔹 [Multi-threaded C Chat Server](https://github.com/Amik05)
+#### - [Multi-threaded C Chat Server](https://github.com/Amik05)
 A high-performance chat application built in **C** using **POSIX Threads** and TCP/IP sockets. Utilized the **epoll API** for efficient I/O multiplexing and Docker for environment consistency.
 
 ---
