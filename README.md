@@ -15,17 +15,22 @@
 
 ---
 
-### Featured Projects
+### 📂 Featured Projects
 
-#### - [FoodieFind](https://github.com/Amik05)
-A full-stack React application integrating the **Gemini API** and Google Maps API to provide AI-driven restaurant insights. Features automated testing pipelines and CI/CD integration.
+#### 🏎️ [Autonomous Racing AI Agent](https://github.com/Amik05)
+> **PyTorch | LIDAR | Reinforcement Learning**
+* Engineered a neural network to navigate racing environments using raw LIDAR data.
+* Implemented reward functions that optimize for both speed and collision avoidance.
 
-#### - [Autonomous Racing AI Agent](https://github.com/Amik05)
-An AI agent trained using **PyTorch** to navigate complex racing environments. Implemented custom simulations with LIDAR sensor inputs and optimized training via headless rendering.
+#### 🧠 [FoodieFind](https://github.com/Amik05)
+> **React | Gemini API | Google Maps API**
+* Built a smart discovery tool that uses **LLMs** to provide context-aware restaurant insights.
+* Integrated real-time mapping for a seamless "AI-to-Street" user experience.
 
-#### - [Multi-threaded C Chat Server](https://github.com/Amik05)
-A high-performance chat application built in **C** using **POSIX Threads** and TCP/IP sockets. Utilized the **epoll API** for efficient I/O multiplexing and Docker for environment consistency.
-
+#### ⚡ [Multi-threaded C Chat Server](https://github.com/Amik05)
+> **C | POSIX Threads | epoll**
+* Developed a high-concurrency server capable of handling thousands of simultaneous connections.
+* Optimized I/O multiplexing using the `epoll` API for Linux-native performance.
 ---
 
 
