@@ -14,18 +14,13 @@
 
 ### 🔧 Tech Stack
 
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=c" />
-  <img src="https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react" />
-  <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js" />
-  <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker" />
-  <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git" />
-</p>
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ---
 
 ### Featured Projects
