@@ -14,9 +14,11 @@
 
 ### 🔧 Tech Stack
 
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=c" />
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   <img src="https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react" />
   <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript" />
   <img src="https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js" />
