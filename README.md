@@ -1,4 +1,3 @@
-<p align="center">
  <pre>
   _______________________________________
 / As long as the dice is still rolling    \
@@ -10,7 +9,6 @@
                 ||----w |
                 ||     ||
 </pre>
-</p>
 <p align="center">
   CS Student @ SFU | Software Developer
 </p>
@@ -29,6 +27,17 @@ An AI agent trained using **PyTorch** to navigate complex racing environments. I
 A high-performance chat application built in **C** using **POSIX Threads** and TCP/IP sockets. Utilized the **epoll API** for efficient I/O multiplexing and Docker for environment consistency.
 
 ---
+
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Technologies
 
@@ -51,7 +60,6 @@ A high-performance chat application built in **C** using **POSIX Threads** and T
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
 
