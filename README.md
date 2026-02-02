@@ -1,4 +1,14 @@
-<p align="center">
+ <pre>
+  _______________________________________
+/ As long as the dice is still rolling    \
+\ you will get your six                   /
+  ---------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+</pre><p align="center">
   CS Student @ SFU | Software Developer
 </p>
 
