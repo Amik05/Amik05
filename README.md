@@ -9,6 +9,7 @@
                 ||----w |
                 ||     ||
 </pre>
+---
 <p align="center">
   CS Student @ SFU | Software Developer
 </p>
