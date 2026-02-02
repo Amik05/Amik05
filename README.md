@@ -1,8 +1,9 @@
-_________________________________________
-/ If I am going to put my name on         \
-| something, I better be proud of it.     |
-\ -- Amir Matianiu                        /
- -----------------------------------------
+<p align="center">
+ <pre>
+  _______________________________________
+/ As long as the dice is still rolling    \
+\ you will get your six                   /
+  ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
@@ -15,7 +16,7 @@ _________________________________________
  ██╔══██║██║╚██╔╝██║██║██╔══██╗
  ██║  ██║██║ ╚═╝ ██║██║██║  ██║
  ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═╝
-<p align="center">
+</pre>
   CS Student @ SFU | Software Developer
 </p>
 
