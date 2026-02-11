@@ -23,7 +23,7 @@
 * Engineered a neural network to navigate racing environments using raw LIDAR data.
 * Implemented reward functions that optimize for both speed and collision avoidance.
 
-#### 🧠 [FoodieFind]([https://github.com/Amik05](https://github.com/CMPT-276-SPRING-2025/final-project-12-woods))
+#### 🧠 [FoodieFind](https://github.com/CMPT-276-SPRING-2025/final-project-12-woods)
 > **React | Gemini API | Google Maps API**
 * Built a smart discovery tool that uses **LLMs** to provide context-aware restaurant insights.
 * Integrated real-time mapping for a seamless "AI-to-Street" user experience.
