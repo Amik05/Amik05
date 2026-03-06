@@ -18,20 +18,18 @@
 
 ### 📂 Featured Projects
 
+#### 🪨 [Sisyphus](https://github.com/superspiderman32/SisyphusWorkoutTracker)
+> **React Native | Expo**
+* A fitness tracking app inspired by the myth of Sisyphus. Log your lifts, watch your progress, and keep pushing the boulder up the mountain.
+
 #### 🏎️ [Autonomous Racing AI Agent](https://github.com/daniel06smith/CMPT310-Project)
 > **PyTorch | LIDAR | Reinforcement Learning**
-* Engineered a neural network to navigate racing environments using raw LIDAR data.
-* Implemented reward functions that optimize for both speed and collision avoidance.
+* A Pygame racing environment with Gymnasium API for training RL agents using LIDAR sensors.
 
 #### 🧠 [FoodieFind](https://github.com/CMPT-276-SPRING-2025/final-project-12-woods)
 > **React | Gemini API | Google Maps API**
-* Built a smart discovery tool that uses **LLMs** to provide context-aware restaurant insights.
-* Integrated real-time mapping for a seamless "AI-to-Street" user experience.
+* A smart discovery tool that helps users find local restaurants. Leverages Google Maps API and Gemini API to offer location-based restaurant search and personalized recommendations.
 
-#### ⚡ [Multi-threaded C Chat Server](https://github.com/Amik05)
-> **C | POSIX Threads | epoll**
-* Developed a high-concurrency server capable of handling thousands of simultaneous connections.
-* Optimized I/O multiplexing using the `epoll` API for Linux-native performance.
 ---
 
 
