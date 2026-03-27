@@ -19,7 +19,7 @@
 ### 📂 Featured Projects
 
 #### 📝 [CommitCraft](https://github.com/Amik05/CommitCraft)
-> ** Gemini API | GitHub API **
+> **Gemini API | GitHub API**
 * Transform raw git commit history into a clean, professional changelog using AI. Point it at any public GitHub repository, pick a date range, and get structured release notes in seconds.
 
 #### 🪨 [Sisyphus](https://github.com/superspiderman32/SisyphusWorkoutTracker)
