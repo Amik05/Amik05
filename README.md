@@ -18,6 +18,10 @@
 
 ### 📂 Featured Projects
 
+#### 📝 [CommitCraft](https://github.com/Amik05/CommitCraft)
+> ** Gemini API | GitHub API **
+* Transform raw git commit history into a clean, professional changelog using AI. Point it at any public GitHub repository, pick a date range, and get structured release notes in seconds.
+
 #### 🪨 [Sisyphus](https://github.com/superspiderman32/SisyphusWorkoutTracker)
 > **React Native | Expo**
 * A fitness tracking app inspired by the myth of Sisyphus. Log your lifts, watch your progress, and keep pushing the boulder up the mountain.
