@@ -18,9 +18,9 @@
 
 ### 📂 Projects
 
-#### 📝 [Reals](https://github.com/Amik05/Reals/tree/main)
+#### 🎞️ [Reals](https://github.com/Amik05/Reals/tree/main)
 > **Playwritght | Claude/Gemini Vision**
-* Instead of doomscrolling before bed, Reals captures your feed, runs it through AI, and generates a printable PDF you can read offline.
+* Instead of doomscrolling before bed, Reals captures your feed, runs it through AI, and generates a printable PDF you can read offline. **Sillyhacks winner**
   
 #### 📝 [CommitCraft](https://github.com/Amik05/CommitCraft)
 > **Gemini API | GitHub API**
@@ -28,7 +28,7 @@
 
 #### 🪨 [Sisyphus](https://github.com/superspiderman32/SisyphusWorkoutTracker)
 > **React Native | Expo**
-* A fitness tracking app inspired by the myth of Sisyphus. Log your lifts, watch your progress, and keep pushing the boulder up the mountain.
+* A fitness tracking app inspired by the myth of Sisyphus. Log your lifts, watch your progress, and keep pushing the boulder up the mountain. **MountainMadness Winner**
 
 #### 🏎️ [Autonomous Racing AI Agent](https://github.com/daniel06smith/CMPT310-Project)
 > **PyTorch | LIDAR | Reinforcement Learning**
