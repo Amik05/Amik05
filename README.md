@@ -16,8 +16,12 @@
 
 ---
 
-### 📂 Featured Projects
+### 📂 Projects
 
+#### 📝 [Reals](https://github.com/Amik05/Reals/tree/main)
+> **Playwritght | Claude/Gemini Vision**
+* Instead of doomscrolling before bed, Reals captures your feed, runs it through AI, and generates a printable PDF you can read offline.
+  
 #### 📝 [CommitCraft](https://github.com/Amik05/CommitCraft)
 > **Gemini API | GitHub API**
 * Transform raw git commit history into a clean, professional changelog using AI. Point it at any public GitHub repository, pick a date range, and get structured release notes in seconds.
